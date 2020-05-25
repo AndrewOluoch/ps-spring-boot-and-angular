@@ -1,6 +1,6 @@
 CREATE TABLE
     bike
-    {
+    (
         id BIGNT NOT NULL,
         contact BOOLEAN NOT NULL,
         email VARCHAR,
