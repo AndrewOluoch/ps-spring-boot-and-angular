@@ -16,7 +16,7 @@ CREATE TABLE
      CREATE TABLE
        hibernate_sequence
       (
-          next_val BIGNT
+          next_val BIGINT
       );
      
  INSERT INTO bike (id, contact, email, model, name, phone, purchase_date, purchase_price)
